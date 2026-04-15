@@ -1,0 +1,7 @@
+# macOS dependencies
+PyObjC
+matplotlib
+scipy
+pandas
+numpy
+numbers-parser
